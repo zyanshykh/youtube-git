@@ -1,3 +1,3 @@
 # youtube-git
 
-author{Zayan-Sheikh}
+author{Zayan-Shykh}
